@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9475B1D9-235A-40C6-A923-43F2106B0F4F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>inTuned</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B5920D0ED2FD541505BF6B51C4CD3E05427F39E9</key>
+		<string>https://github.com/hopet1/iPhone-Apps.git</string>
+		<key>D3D41EBE65689ACF776162AA3FE824ABA3BBDDE5</key>
+		<string>https://github.com/hopet1/iPhone.ProjectX.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>inTuned.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B5920D0ED2FD541505BF6B51C4CD3E05427F39E9</key>
+		<string>../../..</string>
+		<key>D3D41EBE65689ACF776162AA3FE824ABA3BBDDE5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hopet1/iPhone.ProjectX.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D3D41EBE65689ACF776162AA3FE824ABA3BBDDE5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B5920D0ED2FD541505BF6B51C4CD3E05427F39E9</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D3D41EBE65689ACF776162AA3FE824ABA3BBDDE5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iPhone.ProjectX</string>
+		</dict>
+	</array>
+</dict>
+</plist>
